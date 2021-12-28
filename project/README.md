@@ -2,7 +2,7 @@
 ### in process
 Содержание:  
 1_research.ipynb -- обдумывание методов  
-2_research.ipynb -- поиск решения  
+2_research.ipynb -- поиск решения и описание итогов
 dev_pred_aspects_last.txt -- предсказание аспектов  
 dev_pred_cats_formatted_last.txt -- предсказание категорий  
 evaluate.ipynb -- сравниваем с эталоном  
